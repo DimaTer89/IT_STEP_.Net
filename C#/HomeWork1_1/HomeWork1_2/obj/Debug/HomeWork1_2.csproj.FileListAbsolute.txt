@@ -1,0 +1,7 @@
+D:\C#\HomeWork1_1\HomeWork1_2\bin\Debug\HomeWork1_2.exe.config
+D:\C#\HomeWork1_1\HomeWork1_2\bin\Debug\HomeWork1_2.exe
+D:\C#\HomeWork1_1\HomeWork1_2\bin\Debug\HomeWork1_2.pdb
+D:\C#\HomeWork1_1\HomeWork1_2\obj\Debug\HomeWork1_2.csprojResolveAssemblyReference.cache
+D:\C#\HomeWork1_1\HomeWork1_2\obj\Debug\HomeWork1_2.csproj.CoreCompileInputs.cache
+D:\C#\HomeWork1_1\HomeWork1_2\obj\Debug\HomeWork1_2.exe
+D:\C#\HomeWork1_1\HomeWork1_2\obj\Debug\HomeWork1_2.pdb
