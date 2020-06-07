@@ -1,0 +1,10 @@
+D:\Patterns\Adapter\Adapter\bin\Debug\Adapter.exe.config
+D:\Patterns\Adapter\Adapter\bin\Debug\Adapter.exe
+D:\Patterns\Adapter\Adapter\bin\Debug\Adapter.pdb
+D:\Patterns\Adapter\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
+D:\Patterns\Adapter\Adapter\obj\Debug\Adapter.Form1.resources
+D:\Patterns\Adapter\Adapter\obj\Debug\Adapter.Properties.Resources.resources
+D:\Patterns\Adapter\Adapter\obj\Debug\Adapter.csproj.GenerateResource.Cache
+D:\Patterns\Adapter\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+D:\Patterns\Adapter\Adapter\obj\Debug\Adapter.exe
+D:\Patterns\Adapter\Adapter\obj\Debug\Adapter.pdb

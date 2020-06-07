@@ -1,0 +1,30 @@
+D:\Patterns\AbstractFabrica\AbstractFabrica\bin\Debug\AbstractFabrica.exe.config
+D:\Patterns\AbstractFabrica\AbstractFabrica\bin\Debug\AbstractFabrica.exe
+D:\Patterns\AbstractFabrica\AbstractFabrica\bin\Debug\AbstractFabrica.pdb
+D:\Patterns\AbstractFabrica\AbstractFabrica\obj\Debug\AbstractFabrica.csprojAssemblyReference.cache
+D:\Patterns\AbstractFabrica\AbstractFabrica\obj\Debug\AbstractFabrica.Form1.resources
+D:\Patterns\AbstractFabrica\AbstractFabrica\obj\Debug\AbstractFabrica.Properties.Resources.resources
+D:\Patterns\AbstractFabrica\AbstractFabrica\obj\Debug\AbstractFabrica.csproj.GenerateResource.cache
+D:\Patterns\AbstractFabrica\AbstractFabrica\obj\Debug\AbstractFabrica.csproj.CoreCompileInputs.cache
+D:\Patterns\AbstractFabrica\AbstractFabrica\obj\Debug\AbstractFabrica.exe
+D:\Patterns\AbstractFabrica\AbstractFabrica\obj\Debug\AbstractFabrica.pdb
+f:\Паттерны проектирования\Примеры\Patterns\AbstractFabrica\AbstractFabrica\bin\Debug\AbstractFabrica.exe.config
+f:\Паттерны проектирования\Примеры\Patterns\AbstractFabrica\AbstractFabrica\bin\Debug\AbstractFabrica.exe
+f:\Паттерны проектирования\Примеры\Patterns\AbstractFabrica\AbstractFabrica\bin\Debug\AbstractFabrica.pdb
+f:\Паттерны проектирования\Примеры\Patterns\AbstractFabrica\AbstractFabrica\obj\Debug\AbstractFabrica.Form1.resources
+f:\Паттерны проектирования\Примеры\Patterns\AbstractFabrica\AbstractFabrica\obj\Debug\AbstractFabrica.Properties.Resources.resources
+f:\Паттерны проектирования\Примеры\Patterns\AbstractFabrica\AbstractFabrica\obj\Debug\AbstractFabrica.csproj.GenerateResource.Cache
+f:\Паттерны проектирования\Примеры\Patterns\AbstractFabrica\AbstractFabrica\obj\Debug\AbstractFabrica.csproj.CoreCompileInputs.cache
+f:\Паттерны проектирования\Примеры\Patterns\AbstractFabrica\AbstractFabrica\obj\Debug\AbstractFabrica.exe
+f:\Паттерны проектирования\Примеры\Patterns\AbstractFabrica\AbstractFabrica\obj\Debug\AbstractFabrica.pdb
+f:\Паттерны проектирования\Примеры\Patterns\AbstractFabrica\AbstractFabrica\obj\Debug\AbstractFabrica.csprojResolveAssemblyReference.cache
+g:\Паттерны проектирования\Примеры\Patterns\AbstractFabrica\AbstractFabrica\bin\Debug\AbstractFabrica.exe.config
+g:\Паттерны проектирования\Примеры\Patterns\AbstractFabrica\AbstractFabrica\bin\Debug\AbstractFabrica.exe
+g:\Паттерны проектирования\Примеры\Patterns\AbstractFabrica\AbstractFabrica\bin\Debug\AbstractFabrica.pdb
+g:\Паттерны проектирования\Примеры\Patterns\AbstractFabrica\AbstractFabrica\obj\Debug\AbstractFabrica.csprojAssemblyReference.cache
+g:\Паттерны проектирования\Примеры\Patterns\AbstractFabrica\AbstractFabrica\obj\Debug\AbstractFabrica.Form1.resources
+g:\Паттерны проектирования\Примеры\Patterns\AbstractFabrica\AbstractFabrica\obj\Debug\AbstractFabrica.Properties.Resources.resources
+g:\Паттерны проектирования\Примеры\Patterns\AbstractFabrica\AbstractFabrica\obj\Debug\AbstractFabrica.csproj.GenerateResource.cache
+g:\Паттерны проектирования\Примеры\Patterns\AbstractFabrica\AbstractFabrica\obj\Debug\AbstractFabrica.csproj.CoreCompileInputs.cache
+g:\Паттерны проектирования\Примеры\Patterns\AbstractFabrica\AbstractFabrica\obj\Debug\AbstractFabrica.exe
+g:\Паттерны проектирования\Примеры\Patterns\AbstractFabrica\AbstractFabrica\obj\Debug\AbstractFabrica.pdb
