@@ -1,0 +1,17 @@
+D:\WPF\WPF_HomeWork3_Tereshchenko\WPF_HomeWork3_Tereshchenko\bin\Debug\WPF_HomeWork3_Tereshchenko.exe.config
+D:\WPF\WPF_HomeWork3_Tereshchenko\WPF_HomeWork3_Tereshchenko\bin\Debug\WPF_HomeWork3_Tereshchenko.exe
+D:\WPF\WPF_HomeWork3_Tereshchenko\WPF_HomeWork3_Tereshchenko\bin\Debug\WPF_HomeWork3_Tereshchenko.pdb
+D:\WPF\WPF_HomeWork3_Tereshchenko\WPF_HomeWork3_Tereshchenko\obj\Debug\MainWindow.g.cs
+D:\WPF\WPF_HomeWork3_Tereshchenko\WPF_HomeWork3_Tereshchenko\obj\Debug\App.g.cs
+D:\WPF\WPF_HomeWork3_Tereshchenko\WPF_HomeWork3_Tereshchenko\obj\Debug\WPF_HomeWork3_Tereshchenko_MarkupCompile.cache
+D:\WPF\WPF_HomeWork3_Tereshchenko\WPF_HomeWork3_Tereshchenko\obj\Debug\WPF_HomeWork3_Tereshchenko_MarkupCompile.lref
+D:\WPF\WPF_HomeWork3_Tereshchenko\WPF_HomeWork3_Tereshchenko\obj\Debug\MainWindow.baml
+D:\WPF\WPF_HomeWork3_Tereshchenko\WPF_HomeWork3_Tereshchenko\obj\Debug\WPF_HomeWork3_Tereshchenko.g.resources
+D:\WPF\WPF_HomeWork3_Tereshchenko\WPF_HomeWork3_Tereshchenko\obj\Debug\WPF_HomeWork3_Tereshchenko.Properties.Resources.resources
+D:\WPF\WPF_HomeWork3_Tereshchenko\WPF_HomeWork3_Tereshchenko\obj\Debug\WPF_HomeWork3_Tereshchenko.csproj.GenerateResource.Cache
+D:\WPF\WPF_HomeWork3_Tereshchenko\WPF_HomeWork3_Tereshchenko\obj\Debug\WPF_HomeWork3_Tereshchenko.csproj.CoreCompileInputs.cache
+D:\WPF\WPF_HomeWork3_Tereshchenko\WPF_HomeWork3_Tereshchenko\obj\Debug\WPF_HomeWork3_Tereshchenko.exe
+D:\WPF\WPF_HomeWork3_Tereshchenko\WPF_HomeWork3_Tereshchenko\obj\Debug\WPF_HomeWork3_Tereshchenko.pdb
+D:\WPF\WPF_HomeWork3_Tereshchenko\WPF_HomeWork3_Tereshchenko\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WPF\WPF_HomeWork3_Tereshchenko\WPF_HomeWork3_Tereshchenko\obj\Debug\AboutAuthor.g.cs
+D:\WPF\WPF_HomeWork3_Tereshchenko\WPF_HomeWork3_Tereshchenko\obj\Debug\AboutAuthor.baml
