@@ -1,0 +1,10 @@
+f:\Паттерны проектирования\Примеры\Patterns\Bridge\Bridge\bin\Debug\Bridge.exe.config
+f:\Паттерны проектирования\Примеры\Patterns\Bridge\Bridge\bin\Debug\Bridge.exe
+f:\Паттерны проектирования\Примеры\Patterns\Bridge\Bridge\bin\Debug\Bridge.pdb
+f:\Паттерны проектирования\Примеры\Patterns\Bridge\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache
+f:\Паттерны проектирования\Примеры\Patterns\Bridge\Bridge\obj\Debug\Bridge.Form1.resources
+f:\Паттерны проектирования\Примеры\Patterns\Bridge\Bridge\obj\Debug\Bridge.Properties.Resources.resources
+f:\Паттерны проектирования\Примеры\Patterns\Bridge\Bridge\obj\Debug\Bridge.csproj.GenerateResource.Cache
+f:\Паттерны проектирования\Примеры\Patterns\Bridge\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+f:\Паттерны проектирования\Примеры\Patterns\Bridge\Bridge\obj\Debug\Bridge.exe
+f:\Паттерны проектирования\Примеры\Patterns\Bridge\Bridge\obj\Debug\Bridge.pdb

@@ -1,0 +1,11 @@
+D:\Patterns\ExamPatterns\ExamPatterns\bin\Debug\ExamPatterns.exe.config
+D:\Patterns\ExamPatterns\ExamPatterns\bin\Debug\ExamPatterns.exe
+D:\Patterns\ExamPatterns\ExamPatterns\bin\Debug\ExamPatterns.pdb
+D:\Patterns\ExamPatterns\ExamPatterns\obj\Debug\ExamPatterns.Form1.resources
+D:\Patterns\ExamPatterns\ExamPatterns\obj\Debug\ExamPatterns.Properties.Resources.resources
+D:\Patterns\ExamPatterns\ExamPatterns\obj\Debug\ExamPatterns.csproj.GenerateResource.cache
+D:\Patterns\ExamPatterns\ExamPatterns\obj\Debug\ExamPatterns.csproj.CoreCompileInputs.cache
+D:\Patterns\ExamPatterns\ExamPatterns\obj\Debug\ExamPatterns.exe
+D:\Patterns\ExamPatterns\ExamPatterns\obj\Debug\ExamPatterns.pdb
+d:\Patterns\ExamPatterns\ExamPatterns\obj\Debug\ExamPatterns.csprojResolveAssemblyReference.cache
+D:\Patterns\ExamPatterns\ExamPatterns\obj\Debug\ExamPatterns.Check.resources
