@@ -1,0 +1,10 @@
+D:\ADO.NET\DisabledMode\DisabledMode\bin\Debug\DisabledMode.exe.config
+D:\ADO.NET\DisabledMode\DisabledMode\bin\Debug\DisabledMode.exe
+D:\ADO.NET\DisabledMode\DisabledMode\bin\Debug\DisabledMode.pdb
+D:\ADO.NET\DisabledMode\DisabledMode\obj\Debug\DisabledMode.csprojAssemblyReference.cache
+D:\ADO.NET\DisabledMode\DisabledMode\obj\Debug\DisabledMode.Form1.resources
+D:\ADO.NET\DisabledMode\DisabledMode\obj\Debug\DisabledMode.Properties.Resources.resources
+D:\ADO.NET\DisabledMode\DisabledMode\obj\Debug\DisabledMode.csproj.GenerateResource.cache
+D:\ADO.NET\DisabledMode\DisabledMode\obj\Debug\DisabledMode.csproj.CoreCompileInputs.cache
+D:\ADO.NET\DisabledMode\DisabledMode\obj\Debug\DisabledMode.exe
+D:\ADO.NET\DisabledMode\DisabledMode\obj\Debug\DisabledMode.pdb

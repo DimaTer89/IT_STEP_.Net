@@ -1,0 +1,15 @@
+D:\ADO.NET\CodeFirstSportsmens\CodeFirstSportsmens\bin\Debug\CodeFirstSportsmens.exe.config
+D:\ADO.NET\CodeFirstSportsmens\CodeFirstSportsmens\bin\Debug\CodeFirstSportsmens.exe
+D:\ADO.NET\CodeFirstSportsmens\CodeFirstSportsmens\bin\Debug\CodeFirstSportsmens.pdb
+D:\ADO.NET\CodeFirstSportsmens\CodeFirstSportsmens\bin\Debug\EntityFramework.dll
+D:\ADO.NET\CodeFirstSportsmens\CodeFirstSportsmens\bin\Debug\EntityFramework.SqlServer.dll
+D:\ADO.NET\CodeFirstSportsmens\CodeFirstSportsmens\bin\Debug\EntityFramework.xml
+D:\ADO.NET\CodeFirstSportsmens\CodeFirstSportsmens\bin\Debug\EntityFramework.SqlServer.xml
+D:\ADO.NET\CodeFirstSportsmens\CodeFirstSportsmens\obj\Debug\CodeFirstSportsmens.csprojAssemblyReference.cache
+D:\ADO.NET\CodeFirstSportsmens\CodeFirstSportsmens\obj\Debug\CodeFirstSportsmens.Form1.resources
+D:\ADO.NET\CodeFirstSportsmens\CodeFirstSportsmens\obj\Debug\CodeFirstSportsmens.Properties.Resources.resources
+D:\ADO.NET\CodeFirstSportsmens\CodeFirstSportsmens\obj\Debug\CodeFirstSportsmens.csproj.GenerateResource.cache
+D:\ADO.NET\CodeFirstSportsmens\CodeFirstSportsmens\obj\Debug\CodeFirstSportsmens.csproj.CoreCompileInputs.cache
+D:\ADO.NET\CodeFirstSportsmens\CodeFirstSportsmens\obj\Debug\CodeFirstSportsmens.csproj.CopyComplete
+D:\ADO.NET\CodeFirstSportsmens\CodeFirstSportsmens\obj\Debug\CodeFirstSportsmens.exe
+D:\ADO.NET\CodeFirstSportsmens\CodeFirstSportsmens\obj\Debug\CodeFirstSportsmens.pdb

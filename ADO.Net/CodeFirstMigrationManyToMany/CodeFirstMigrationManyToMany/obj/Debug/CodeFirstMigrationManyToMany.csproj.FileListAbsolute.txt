@@ -1,0 +1,16 @@
+D:\ADO.NET\CodeFirstMigrationManyToMany\CodeFirstMigrationManyToMany\bin\Debug\CodeFirstMigrationManyToMany.exe.config
+D:\ADO.NET\CodeFirstMigrationManyToMany\CodeFirstMigrationManyToMany\bin\Debug\CodeFirstMigrationManyToMany.exe
+D:\ADO.NET\CodeFirstMigrationManyToMany\CodeFirstMigrationManyToMany\bin\Debug\CodeFirstMigrationManyToMany.pdb
+D:\ADO.NET\CodeFirstMigrationManyToMany\CodeFirstMigrationManyToMany\bin\Debug\EntityFramework.dll
+D:\ADO.NET\CodeFirstMigrationManyToMany\CodeFirstMigrationManyToMany\bin\Debug\EntityFramework.SqlServer.dll
+D:\ADO.NET\CodeFirstMigrationManyToMany\CodeFirstMigrationManyToMany\bin\Debug\EntityFramework.xml
+D:\ADO.NET\CodeFirstMigrationManyToMany\CodeFirstMigrationManyToMany\bin\Debug\EntityFramework.SqlServer.xml
+D:\ADO.NET\CodeFirstMigrationManyToMany\CodeFirstMigrationManyToMany\obj\Debug\CodeFirstMigrationManyToMany.Form1.resources
+D:\ADO.NET\CodeFirstMigrationManyToMany\CodeFirstMigrationManyToMany\obj\Debug\CodeFirstMigrationManyToMany.Properties.Resources.resources
+D:\ADO.NET\CodeFirstMigrationManyToMany\CodeFirstMigrationManyToMany\obj\Debug\CodeFirstMigrationManyToMany.csproj.GenerateResource.cache
+D:\ADO.NET\CodeFirstMigrationManyToMany\CodeFirstMigrationManyToMany\obj\Debug\CodeFirstMigrationManyToMany.csproj.CoreCompileInputs.cache
+D:\ADO.NET\CodeFirstMigrationManyToMany\CodeFirstMigrationManyToMany\obj\Debug\CodeFirstMigrationManyToMany.csproj.CopyComplete
+D:\ADO.NET\CodeFirstMigrationManyToMany\CodeFirstMigrationManyToMany\obj\Debug\CodeFirstMigrationManyToMany.exe
+D:\ADO.NET\CodeFirstMigrationManyToMany\CodeFirstMigrationManyToMany\obj\Debug\CodeFirstMigrationManyToMany.pdb
+D:\ADO.NET\CodeFirstMigrationManyToMany\CodeFirstMigrationManyToMany\obj\Debug\CodeFirstMigrationManyToMany.Migrations.InitialCreate.resources
+D:\ADO.NET\CodeFirstMigrationManyToMany\CodeFirstMigrationManyToMany\obj\Debug\CodeFirstMigrationManyToMany.Migrations.AddCountryTeam.resources

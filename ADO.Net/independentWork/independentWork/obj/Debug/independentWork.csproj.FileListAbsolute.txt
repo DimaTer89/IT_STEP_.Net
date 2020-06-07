@@ -1,0 +1,10 @@
+D:\ADO.NET\independentWork\independentWork\bin\Debug\independentWork.exe.config
+D:\ADO.NET\independentWork\independentWork\bin\Debug\independentWork.exe
+D:\ADO.NET\independentWork\independentWork\bin\Debug\independentWork.pdb
+D:\ADO.NET\independentWork\independentWork\obj\Debug\independentWork.csprojAssemblyReference.cache
+D:\ADO.NET\independentWork\independentWork\obj\Debug\independentWork.Form1.resources
+D:\ADO.NET\independentWork\independentWork\obj\Debug\independentWork.Properties.Resources.resources
+D:\ADO.NET\independentWork\independentWork\obj\Debug\independentWork.csproj.GenerateResource.cache
+D:\ADO.NET\independentWork\independentWork\obj\Debug\independentWork.csproj.CoreCompileInputs.cache
+D:\ADO.NET\independentWork\independentWork\obj\Debug\independentWork.exe
+D:\ADO.NET\independentWork\independentWork\obj\Debug\independentWork.pdb
