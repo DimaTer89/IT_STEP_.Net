@@ -1,0 +1,14 @@
+D:\ADO.Net\DataBaseFirst\DataBaseFirst\bin\Debug\DataBaseFirst.exe.config
+D:\ADO.Net\DataBaseFirst\DataBaseFirst\bin\Debug\DataBaseFirst.exe
+D:\ADO.Net\DataBaseFirst\DataBaseFirst\bin\Debug\DataBaseFirst.pdb
+D:\ADO.Net\DataBaseFirst\DataBaseFirst\bin\Debug\EntityFramework.dll
+D:\ADO.Net\DataBaseFirst\DataBaseFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\ADO.Net\DataBaseFirst\DataBaseFirst\bin\Debug\EntityFramework.xml
+D:\ADO.Net\DataBaseFirst\DataBaseFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\ADO.Net\DataBaseFirst\DataBaseFirst\obj\Debug\DataBaseFirst.csprojResolveAssemblyReference.cache
+D:\ADO.Net\DataBaseFirst\DataBaseFirst\obj\Debug\DataBaseFirst.Form1.resources
+D:\ADO.Net\DataBaseFirst\DataBaseFirst\obj\Debug\DataBaseFirst.Properties.Resources.resources
+D:\ADO.Net\DataBaseFirst\DataBaseFirst\obj\Debug\DataBaseFirst.csproj.GenerateResource.Cache
+D:\ADO.Net\DataBaseFirst\DataBaseFirst\obj\Debug\DataBaseFirst.csproj.CoreCompileInputs.cache
+D:\ADO.Net\DataBaseFirst\DataBaseFirst\obj\Debug\DataBaseFirst.exe
+D:\ADO.Net\DataBaseFirst\DataBaseFirst\obj\Debug\DataBaseFirst.pdb

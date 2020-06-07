@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exament_ADO.NET_Tereshchenko", "Exament_ADO.NET_Tereshchenko\Exament_ADO.NET_Tereshchenko.csproj", "{F88C3A34-9F63-4387-B989-8276A493B6DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2_Examen", "Task2_Examen\Task2_Examen.csproj", "{C0552CDD-F649-4056-A7C5-F12B6207BDE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F88C3A34-9F63-4387-B989-8276A493B6DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F88C3A34-9F63-4387-B989-8276A493B6DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F88C3A34-9F63-4387-B989-8276A493B6DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F88C3A34-9F63-4387-B989-8276A493B6DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0552CDD-F649-4056-A7C5-F12B6207BDE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0552CDD-F649-4056-A7C5-F12B6207BDE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0552CDD-F649-4056-A7C5-F12B6207BDE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0552CDD-F649-4056-A7C5-F12B6207BDE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85AC1AAA-C237-4068-A8A5-4A1255E41660}
+	EndGlobalSection
+EndGlobal

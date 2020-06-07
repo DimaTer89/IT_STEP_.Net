@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="Хранилище OlimpiadaModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Country">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="nameCountry" Type="nvarchar(max)" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Sportmens">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Surname" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="countryId" Type="int" Nullable="false" />
+          <Property Name="sportId" Type="int" Nullable="false" />
+          <Property Name="result" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Sports">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="kindOfSport" Type="nvarchar(max)" Nullable="false" />
+        </EntityType>
+        <Association Name="FK__Sportmens__count__276EDEB3">
+          <End Role="Country" Type="Self.Country" Multiplicity="1" />
+          <End Role="Sportmens" Type="Self.Sportmens" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Country">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Sportmens">
+              <PropertyRef Name="countryId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Sportmens__sport__286302EC">
+          <End Role="Sports" Type="Self.Sports" Multiplicity="1" />
+          <End Role="Sportmens" Type="Self.Sportmens" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Sports">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Sportmens">
+              <PropertyRef Name="sportId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="Хранилище OlimpiadaModelContainer">
+          <EntitySet Name="Country" EntityType="Self.Country" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Sportmens" EntityType="Self.Sportmens" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Sports" EntityType="Self.Sports" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK__Sportmens__count__276EDEB3" Association="Self.FK__Sportmens__count__276EDEB3">
+            <End Role="Country" EntitySet="Country" />
+            <End Role="Sportmens" EntitySet="Sportmens" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Sportmens__sport__286302EC" Association="Self.FK__Sportmens__sport__286302EC">
+            <End Role="Sports" EntitySet="Sports" />
+            <End Role="Sportmens" EntitySet="Sportmens" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="OlimpiadaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Country">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="nameCountry" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="Sportmens" Relationship="Self.FK__Sportmens__count__276EDEB3" FromRole="Country" ToRole="Sportmens" />
+        </EntityType>
+        <EntityType Name="Sportmen">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Surname" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="countryId" Type="Int32" Nullable="false" />
+          <Property Name="sportId" Type="Int32" Nullable="false" />
+          <Property Name="result" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Country" Relationship="Self.FK__Sportmens__count__276EDEB3" FromRole="Sportmens" ToRole="Country" />
+          <NavigationProperty Name="Sport" Relationship="Self.FK__Sportmens__sport__286302EC" FromRole="Sportmens" ToRole="Sports" />
+        </EntityType>
+        <EntityType Name="Sport">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="kindOfSport" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="Sportmens" Relationship="Self.FK__Sportmens__sport__286302EC" FromRole="Sports" ToRole="Sportmens" />
+        </EntityType>
+        <Association Name="FK__Sportmens__count__276EDEB3">
+          <End Role="Country" Type="Self.Country" Multiplicity="1" />
+          <End Role="Sportmens" Type="Self.Sportmen" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Country">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Sportmens">
+              <PropertyRef Name="countryId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Sportmens__sport__286302EC">
+          <End Role="Sports" Type="Self.Sport" Multiplicity="1" />
+          <End Role="Sportmens" Type="Self.Sportmen" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Sports">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Sportmens">
+              <PropertyRef Name="sportId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="OlimpiadaEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Countries" EntityType="Self.Country" />
+          <EntitySet Name="Sportmens" EntityType="Self.Sportmen" />
+          <EntitySet Name="Sports" EntityType="Self.Sport" />
+          <AssociationSet Name="FK__Sportmens__count__276EDEB3" Association="Self.FK__Sportmens__count__276EDEB3">
+            <End Role="Country" EntitySet="Countries" />
+            <End Role="Sportmens" EntitySet="Sportmens" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Sportmens__sport__286302EC" Association="Self.FK__Sportmens__sport__286302EC">
+            <End Role="Sports" EntitySet="Sports" />
+            <End Role="Sportmens" EntitySet="Sportmens" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="Хранилище OlimpiadaModelContainer" CdmEntityContainer="OlimpiadaEntities">
+          <EntitySetMapping Name="Countries">
+            <EntityTypeMapping TypeName="OlimpiadaModel.Country">
+              <MappingFragment StoreEntitySet="Country">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="nameCountry" ColumnName="nameCountry" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Sportmens">
+            <EntityTypeMapping TypeName="OlimpiadaModel.Sportmen">
+              <MappingFragment StoreEntitySet="Sportmens">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Surname" ColumnName="Surname" />
+                <ScalarProperty Name="countryId" ColumnName="countryId" />
+                <ScalarProperty Name="sportId" ColumnName="sportId" />
+                <ScalarProperty Name="result" ColumnName="result" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Sports">
+            <EntityTypeMapping TypeName="OlimpiadaModel.Sport">
+              <MappingFragment StoreEntitySet="Sports">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="kindOfSport" ColumnName="kindOfSport" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Нет" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

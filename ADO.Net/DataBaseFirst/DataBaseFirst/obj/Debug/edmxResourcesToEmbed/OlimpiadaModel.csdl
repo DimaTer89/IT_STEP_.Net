@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="OlimpiadaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Country">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nameCountry" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Sportmens" Relationship="Self.FK__Sportmens__count__276EDEB3" FromRole="Country" ToRole="Sportmens" />
+  </EntityType>
+  <EntityType Name="Sportmen">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Surname" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="countryId" Type="Int32" Nullable="false" />
+    <Property Name="sportId" Type="Int32" Nullable="false" />
+    <Property Name="result" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Country" Relationship="Self.FK__Sportmens__count__276EDEB3" FromRole="Sportmens" ToRole="Country" />
+    <NavigationProperty Name="Sport" Relationship="Self.FK__Sportmens__sport__286302EC" FromRole="Sportmens" ToRole="Sports" />
+  </EntityType>
+  <EntityType Name="Sport">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="kindOfSport" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Sportmens" Relationship="Self.FK__Sportmens__sport__286302EC" FromRole="Sports" ToRole="Sportmens" />
+  </EntityType>
+  <Association Name="FK__Sportmens__count__276EDEB3">
+    <End Role="Country" Type="Self.Country" Multiplicity="1" />
+    <End Role="Sportmens" Type="Self.Sportmen" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Country">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Sportmens">
+        <PropertyRef Name="countryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Sportmens__sport__286302EC">
+    <End Role="Sports" Type="Self.Sport" Multiplicity="1" />
+    <End Role="Sportmens" Type="Self.Sportmen" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Sports">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Sportmens">
+        <PropertyRef Name="sportId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="OlimpiadaEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Countries" EntityType="Self.Country" />
+    <EntitySet Name="Sportmens" EntityType="Self.Sportmen" />
+    <EntitySet Name="Sports" EntityType="Self.Sport" />
+    <AssociationSet Name="FK__Sportmens__count__276EDEB3" Association="Self.FK__Sportmens__count__276EDEB3">
+      <End Role="Country" EntitySet="Countries" />
+      <End Role="Sportmens" EntitySet="Sportmens" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Sportmens__sport__286302EC" Association="Self.FK__Sportmens__sport__286302EC">
+      <End Role="Sports" EntitySet="Sports" />
+      <End Role="Sportmens" EntitySet="Sportmens" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

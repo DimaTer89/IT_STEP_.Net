@@ -1,0 +1,10 @@
+D:\ADO.Net\HomeWorkADO_NET2\HomeWorkADO_NET2\bin\Debug\HomeWorkADO_NET2.exe.config
+D:\ADO.Net\HomeWorkADO_NET2\HomeWorkADO_NET2\bin\Debug\HomeWorkADO_NET2.exe
+D:\ADO.Net\HomeWorkADO_NET2\HomeWorkADO_NET2\bin\Debug\HomeWorkADO_NET2.pdb
+D:\ADO.Net\HomeWorkADO_NET2\HomeWorkADO_NET2\obj\Debug\HomeWorkADO_NET2.csprojResolveAssemblyReference.cache
+D:\ADO.Net\HomeWorkADO_NET2\HomeWorkADO_NET2\obj\Debug\HomeWorkADO_NET2.Form1.resources
+D:\ADO.Net\HomeWorkADO_NET2\HomeWorkADO_NET2\obj\Debug\HomeWorkADO_NET2.Properties.Resources.resources
+D:\ADO.Net\HomeWorkADO_NET2\HomeWorkADO_NET2\obj\Debug\HomeWorkADO_NET2.csproj.GenerateResource.Cache
+D:\ADO.Net\HomeWorkADO_NET2\HomeWorkADO_NET2\obj\Debug\HomeWorkADO_NET2.csproj.CoreCompileInputs.cache
+D:\ADO.Net\HomeWorkADO_NET2\HomeWorkADO_NET2\obj\Debug\HomeWorkADO_NET2.exe
+D:\ADO.Net\HomeWorkADO_NET2\HomeWorkADO_NET2\obj\Debug\HomeWorkADO_NET2.pdb

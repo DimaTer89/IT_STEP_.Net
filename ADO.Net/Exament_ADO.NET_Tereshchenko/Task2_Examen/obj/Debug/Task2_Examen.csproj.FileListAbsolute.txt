@@ -1,0 +1,9 @@
+D:\ADO.NET\Exament_ADO.NET_Tereshchenko\Task2_Examen\bin\Debug\Task2_Examen.exe.config
+D:\ADO.NET\Exament_ADO.NET_Tereshchenko\Task2_Examen\bin\Debug\Task2_Examen.exe
+D:\ADO.NET\Exament_ADO.NET_Tereshchenko\Task2_Examen\bin\Debug\Task2_Examen.pdb
+D:\ADO.NET\Exament_ADO.NET_Tereshchenko\Task2_Examen\obj\Debug\Task2_Examen.Form1.resources
+D:\ADO.NET\Exament_ADO.NET_Tereshchenko\Task2_Examen\obj\Debug\Task2_Examen.Properties.Resources.resources
+D:\ADO.NET\Exament_ADO.NET_Tereshchenko\Task2_Examen\obj\Debug\Task2_Examen.csproj.GenerateResource.cache
+D:\ADO.NET\Exament_ADO.NET_Tereshchenko\Task2_Examen\obj\Debug\Task2_Examen.csproj.CoreCompileInputs.cache
+D:\ADO.NET\Exament_ADO.NET_Tereshchenko\Task2_Examen\obj\Debug\Task2_Examen.exe
+D:\ADO.NET\Exament_ADO.NET_Tereshchenko\Task2_Examen\obj\Debug\Task2_Examen.pdb

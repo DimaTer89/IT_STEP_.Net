@@ -44,6 +44,7 @@
     <Reference Include="System.Core" />
     <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.Security" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -78,6 +79,12 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>CatsModel.edmx</DependentUpon>
     </Compile>
+    <Compile Include="DeleteCat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteCat.Designer.cs">
+      <DependentUpon>DeleteCat.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -95,6 +102,15 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Statictic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Statictic.Designer.cs">
+      <DependentUpon>Statictic.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="DeleteCat.resx">
+      <DependentUpon>DeleteCat.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -110,6 +126,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Statictic.resx">
+      <DependentUpon>Statictic.cs</DependentUpon>
+    </EmbeddedResource>
     <EntityDeploy Include="CatsModel.edmx">
       <Generator>EntityModelCodeGenerator</Generator>
       <LastGenOutput>CatsModel.Designer.cs</LastGenOutput>

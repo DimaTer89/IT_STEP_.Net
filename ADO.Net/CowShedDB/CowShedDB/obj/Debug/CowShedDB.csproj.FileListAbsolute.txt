@@ -1,0 +1,11 @@
+D:\ADO.Net\CowShedDB\CowShedDB\bin\Debug\CowShedDB.exe.config
+D:\ADO.Net\CowShedDB\CowShedDB\bin\Debug\CowShedDB.exe
+D:\ADO.Net\CowShedDB\CowShedDB\bin\Debug\CowShedDB.pdb
+D:\ADO.Net\CowShedDB\CowShedDB\obj\Debug\CowShedDB.csprojResolveAssemblyReference.cache
+D:\ADO.Net\CowShedDB\CowShedDB\obj\Debug\CowShedDB.Form1.resources
+D:\ADO.Net\CowShedDB\CowShedDB\obj\Debug\CowShedDB.Properties.Resources.resources
+D:\ADO.Net\CowShedDB\CowShedDB\obj\Debug\CowShedDB.csproj.GenerateResource.Cache
+D:\ADO.Net\CowShedDB\CowShedDB\obj\Debug\CowShedDB.csproj.CoreCompileInputs.cache
+D:\ADO.Net\CowShedDB\CowShedDB\obj\Debug\CowShedDB.exe
+D:\ADO.Net\CowShedDB\CowShedDB\obj\Debug\CowShedDB.pdb
+D:\ADO.Net\CowShedDB\CowShedDB\obj\Debug\CowShedDB.Changes.resources

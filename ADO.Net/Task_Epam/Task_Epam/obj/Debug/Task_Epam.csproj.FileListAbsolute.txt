@@ -1,0 +1,7 @@
+D:\ADO.Net\Task_Epam\Task_Epam\bin\Debug\Task_Epam.exe.config
+D:\ADO.Net\Task_Epam\Task_Epam\bin\Debug\Task_Epam.exe
+D:\ADO.Net\Task_Epam\Task_Epam\bin\Debug\Task_Epam.pdb
+D:\ADO.Net\Task_Epam\Task_Epam\obj\Debug\Task_Epam.csprojResolveAssemblyReference.cache
+D:\ADO.Net\Task_Epam\Task_Epam\obj\Debug\Task_Epam.csproj.CoreCompileInputs.cache
+D:\ADO.Net\Task_Epam\Task_Epam\obj\Debug\Task_Epam.exe
+D:\ADO.Net\Task_Epam\Task_Epam\obj\Debug\Task_Epam.pdb

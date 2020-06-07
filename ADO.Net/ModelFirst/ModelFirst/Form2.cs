@@ -22,6 +22,13 @@ namespace ModelFirst
                 label2.Visible = false;
                 textBox1.Visible = false;
                 textBox2.Visible = false;
+                button1.Location = new Point(89, 56);
+                Size = new Size(356, 149);
+            }
+            else
+            {
+                button1.Location = new Point(80, 161);
+                Size = new Size(356, 247);
             }
         }
         public string OwnerName => textBox3.Text;

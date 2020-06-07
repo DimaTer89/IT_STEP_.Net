@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище OlimpiadaModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Country">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nameCountry" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Sportmens">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Surname" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="countryId" Type="int" Nullable="false" />
+    <Property Name="sportId" Type="int" Nullable="false" />
+    <Property Name="result" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Sports">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="kindOfSport" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__Sportmens__count__276EDEB3">
+    <End Role="Country" Type="Self.Country" Multiplicity="1" />
+    <End Role="Sportmens" Type="Self.Sportmens" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Country">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Sportmens">
+        <PropertyRef Name="countryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Sportmens__sport__286302EC">
+    <End Role="Sports" Type="Self.Sports" Multiplicity="1" />
+    <End Role="Sportmens" Type="Self.Sportmens" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Sports">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Sportmens">
+        <PropertyRef Name="sportId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Хранилище OlimpiadaModelContainer">
+    <EntitySet Name="Country" EntityType="Self.Country" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Sportmens" EntityType="Self.Sportmens" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Sports" EntityType="Self.Sports" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Sportmens__count__276EDEB3" Association="Self.FK__Sportmens__count__276EDEB3">
+      <End Role="Country" EntitySet="Country" />
+      <End Role="Sportmens" EntitySet="Sportmens" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Sportmens__sport__286302EC" Association="Self.FK__Sportmens__sport__286302EC">
+      <End Role="Sports" EntitySet="Sports" />
+      <End Role="Sportmens" EntitySet="Sportmens" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

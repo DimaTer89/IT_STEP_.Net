@@ -1,0 +1,14 @@
+D:\ADO.NET\Examen_ADO.NET_Task4_Tereshchenko\Examen_ADO.NET_Task4_Tereshchenko\bin\Debug\Examen_ADO.NET_Task4_Tereshchenko.exe.config
+D:\ADO.NET\Examen_ADO.NET_Task4_Tereshchenko\Examen_ADO.NET_Task4_Tereshchenko\bin\Debug\Examen_ADO.NET_Task4_Tereshchenko.exe
+D:\ADO.NET\Examen_ADO.NET_Task4_Tereshchenko\Examen_ADO.NET_Task4_Tereshchenko\bin\Debug\Examen_ADO.NET_Task4_Tereshchenko.pdb
+D:\ADO.NET\Examen_ADO.NET_Task4_Tereshchenko\Examen_ADO.NET_Task4_Tereshchenko\bin\Debug\EntityFramework.dll
+D:\ADO.NET\Examen_ADO.NET_Task4_Tereshchenko\Examen_ADO.NET_Task4_Tereshchenko\bin\Debug\EntityFramework.SqlServer.dll
+D:\ADO.NET\Examen_ADO.NET_Task4_Tereshchenko\Examen_ADO.NET_Task4_Tereshchenko\bin\Debug\EntityFramework.xml
+D:\ADO.NET\Examen_ADO.NET_Task4_Tereshchenko\Examen_ADO.NET_Task4_Tereshchenko\bin\Debug\EntityFramework.SqlServer.xml
+D:\ADO.NET\Examen_ADO.NET_Task4_Tereshchenko\Examen_ADO.NET_Task4_Tereshchenko\obj\Debug\Examen_ADO.NET_Task4_Tereshchenko.Form1.resources
+D:\ADO.NET\Examen_ADO.NET_Task4_Tereshchenko\Examen_ADO.NET_Task4_Tereshchenko\obj\Debug\Examen_ADO.NET_Task4_Tereshchenko.Properties.Resources.resources
+D:\ADO.NET\Examen_ADO.NET_Task4_Tereshchenko\Examen_ADO.NET_Task4_Tereshchenko\obj\Debug\Examen_ADO.NET_Task4_Tereshchenko.csproj.GenerateResource.cache
+D:\ADO.NET\Examen_ADO.NET_Task4_Tereshchenko\Examen_ADO.NET_Task4_Tereshchenko\obj\Debug\Examen_ADO.NET_Task4_Tereshchenko.csproj.CoreCompileInputs.cache
+D:\ADO.NET\Examen_ADO.NET_Task4_Tereshchenko\Examen_ADO.NET_Task4_Tereshchenko\obj\Debug\Examen_ADO.NET_Task4_Tereshchenko.exe
+D:\ADO.NET\Examen_ADO.NET_Task4_Tereshchenko\Examen_ADO.NET_Task4_Tereshchenko\obj\Debug\Examen_ADO.NET_Task4_Tereshchenko.pdb
+D:\ADO.Net\Examen_ADO.NET_Task4_Tereshchenko\Examen_ADO.NET_Task4_Tereshchenko\obj\Debug\Examen_ADO.NET_Task4_Tereshchenko.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\ADO.NET\Exament_ADO.NET_Tereshchenko\Exament_ADO.NET_Tereshchenko\bin\Debug\Exament_ADO.NET_Tereshchenko.exe.config
+D:\ADO.NET\Exament_ADO.NET_Tereshchenko\Exament_ADO.NET_Tereshchenko\bin\Debug\Exament_ADO.NET_Tereshchenko.exe
+D:\ADO.NET\Exament_ADO.NET_Tereshchenko\Exament_ADO.NET_Tereshchenko\bin\Debug\Exament_ADO.NET_Tereshchenko.pdb
+D:\ADO.NET\Exament_ADO.NET_Tereshchenko\Exament_ADO.NET_Tereshchenko\obj\Debug\Exament_ADO.NET_Tereshchenko.Form1.resources
+D:\ADO.NET\Exament_ADO.NET_Tereshchenko\Exament_ADO.NET_Tereshchenko\obj\Debug\Exament_ADO.NET_Tereshchenko.Properties.Resources.resources
+D:\ADO.NET\Exament_ADO.NET_Tereshchenko\Exament_ADO.NET_Tereshchenko\obj\Debug\Exament_ADO.NET_Tereshchenko.csproj.GenerateResource.cache
+D:\ADO.NET\Exament_ADO.NET_Tereshchenko\Exament_ADO.NET_Tereshchenko\obj\Debug\Exament_ADO.NET_Tereshchenko.csproj.CoreCompileInputs.cache
+D:\ADO.NET\Exament_ADO.NET_Tereshchenko\Exament_ADO.NET_Tereshchenko\obj\Debug\Exament_ADO.NET_Tereshchenko.exe
+D:\ADO.NET\Exament_ADO.NET_Tereshchenko\Exament_ADO.NET_Tereshchenko\obj\Debug\Exament_ADO.NET_Tereshchenko.pdb
