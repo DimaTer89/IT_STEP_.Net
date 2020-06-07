@@ -1,0 +1,11 @@
+D:\WindowsFormsC#\WindowsFormsExamExample\WindowsFormsExamExample\bin\Debug\WindowsFormsExamExample.exe.config
+D:\WindowsFormsC#\WindowsFormsExamExample\WindowsFormsExamExample\bin\Debug\WindowsFormsExamExample.exe
+D:\WindowsFormsC#\WindowsFormsExamExample\WindowsFormsExamExample\bin\Debug\WindowsFormsExamExample.pdb
+D:\WindowsFormsC#\WindowsFormsExamExample\WindowsFormsExamExample\obj\Debug\WindowsFormsExamExample.csprojResolveAssemblyReference.cache
+D:\WindowsFormsC#\WindowsFormsExamExample\WindowsFormsExamExample\obj\Debug\WindowsFormsExamExample.Form1.resources
+D:\WindowsFormsC#\WindowsFormsExamExample\WindowsFormsExamExample\obj\Debug\WindowsFormsExamExample.Properties.Resources.resources
+D:\WindowsFormsC#\WindowsFormsExamExample\WindowsFormsExamExample\obj\Debug\WindowsFormsExamExample.csproj.GenerateResource.Cache
+D:\WindowsFormsC#\WindowsFormsExamExample\WindowsFormsExamExample\obj\Debug\WindowsFormsExamExample.csproj.CoreCompileInputs.cache
+D:\WindowsFormsC#\WindowsFormsExamExample\WindowsFormsExamExample\obj\Debug\WindowsFormsExamExample.exe
+D:\WindowsFormsC#\WindowsFormsExamExample\WindowsFormsExamExample\obj\Debug\WindowsFormsExamExample.pdb
+D:\WindowsFormsC#\WindowsFormsExamExample\WindowsFormsExamExample\obj\Debug\WindowsFormsExamExample.AuthorForm.resources

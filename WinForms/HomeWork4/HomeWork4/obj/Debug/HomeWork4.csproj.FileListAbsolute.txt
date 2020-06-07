@@ -1,0 +1,10 @@
+D:\WindowsFormsC#\HomeWork4\HomeWork4\bin\Debug\HomeWork4.exe.config
+D:\WindowsFormsC#\HomeWork4\HomeWork4\bin\Debug\HomeWork4.exe
+D:\WindowsFormsC#\HomeWork4\HomeWork4\bin\Debug\HomeWork4.pdb
+D:\WindowsFormsC#\HomeWork4\HomeWork4\obj\Debug\HomeWork4.csprojResolveAssemblyReference.cache
+D:\WindowsFormsC#\HomeWork4\HomeWork4\obj\Debug\HomeWork4.Form1.resources
+D:\WindowsFormsC#\HomeWork4\HomeWork4\obj\Debug\HomeWork4.Properties.Resources.resources
+D:\WindowsFormsC#\HomeWork4\HomeWork4\obj\Debug\HomeWork4.csproj.GenerateResource.Cache
+D:\WindowsFormsC#\HomeWork4\HomeWork4\obj\Debug\HomeWork4.csproj.CoreCompileInputs.cache
+D:\WindowsFormsC#\HomeWork4\HomeWork4\obj\Debug\HomeWork4.exe
+D:\WindowsFormsC#\HomeWork4\HomeWork4\obj\Debug\HomeWork4.pdb

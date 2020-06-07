@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Students xmlns="http://tempuri.org/Students.xsd">
+  <Student>
+    <Name>Вася</Name>
+    <Age>17</Age>
+    <Marks>
+      <Ball>4</Ball>
+      <Ball>4</Ball>
+      <Ball>2</Ball>
+    </Marks>
+  </Student>
+  <Student>
+    <Name>Петя</Name>
+    <Age>19</Age>
+    <Marks>
+      <Ball>9</Ball>
+      <Ball>9</Ball>
+      <Ball>10</Ball>
+    </Marks>
+  </Student>
+</Students>
