@@ -1,0 +1,17 @@
+D:\ADO.NET\ModelFirst\ModelFirst\bin\Debug\ModelFirst.exe.config
+D:\ADO.NET\ModelFirst\ModelFirst\bin\Debug\ModelFirst.exe
+D:\ADO.NET\ModelFirst\ModelFirst\bin\Debug\ModelFirst.pdb
+D:\ADO.NET\ModelFirst\ModelFirst\bin\Debug\EntityFramework.dll
+D:\ADO.NET\ModelFirst\ModelFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\ADO.NET\ModelFirst\ModelFirst\bin\Debug\EntityFramework.xml
+D:\ADO.NET\ModelFirst\ModelFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\ADO.NET\ModelFirst\ModelFirst\obj\Debug\ModelFirst.csprojAssemblyReference.cache
+D:\ADO.NET\ModelFirst\ModelFirst\obj\Debug\ModelFirst.Form1.resources
+D:\ADO.NET\ModelFirst\ModelFirst\obj\Debug\ModelFirst.Properties.Resources.resources
+D:\ADO.NET\ModelFirst\ModelFirst\obj\Debug\ModelFirst.csproj.GenerateResource.cache
+D:\ADO.NET\ModelFirst\ModelFirst\obj\Debug\ModelFirst.csproj.CoreCompileInputs.cache
+D:\ADO.NET\ModelFirst\ModelFirst\obj\Debug\ModelFirst.csproj.CopyComplete
+D:\ADO.NET\ModelFirst\ModelFirst\obj\Debug\ModelFirst.exe
+D:\ADO.NET\ModelFirst\ModelFirst\obj\Debug\ModelFirst.pdb
+D:\ADO.NET\ModelFirst\ModelFirst\bin\Debug\ru\EntityFramework.resources.dll
+D:\ADO.NET\ModelFirst\ModelFirst\obj\Debug\ModelFirst.Form2.resources

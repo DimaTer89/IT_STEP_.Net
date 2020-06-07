@@ -1,0 +1,10 @@
+D:\ADO.NET\LinqSQL\LinqSQL\bin\Debug\LinqSQL.exe.config
+D:\ADO.NET\LinqSQL\LinqSQL\bin\Debug\LinqSQL.exe
+D:\ADO.NET\LinqSQL\LinqSQL\bin\Debug\LinqSQL.pdb
+D:\ADO.NET\LinqSQL\LinqSQL\obj\Debug\LinqSQL.csprojAssemblyReference.cache
+D:\ADO.NET\LinqSQL\LinqSQL\obj\Debug\LinqSQL.Form1.resources
+D:\ADO.NET\LinqSQL\LinqSQL\obj\Debug\LinqSQL.Properties.Resources.resources
+D:\ADO.NET\LinqSQL\LinqSQL\obj\Debug\LinqSQL.csproj.GenerateResource.cache
+D:\ADO.NET\LinqSQL\LinqSQL\obj\Debug\LinqSQL.csproj.CoreCompileInputs.cache
+D:\ADO.NET\LinqSQL\LinqSQL\obj\Debug\LinqSQL.exe
+D:\ADO.NET\LinqSQL\LinqSQL\obj\Debug\LinqSQL.pdb

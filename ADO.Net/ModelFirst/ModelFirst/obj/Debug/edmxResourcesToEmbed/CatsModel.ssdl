@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CatsModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="CatsModelStoreContainer">
+    <EntitySet Name="CatSet" EntityType="CatsModel.Store.CatSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="OwnerSet" EntityType="CatsModel.Store.OwnerSet" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="OwnerCat" Association="CatsModel.Store.OwnerCat">
+      <End Role="Owner" EntitySet="OwnerSet" />
+      <End Role="Cat" EntitySet="CatSet" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="CatSet">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Age" Type="int" Nullable="false" />
+    <Property Name="Owner_Id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="OwnerSet">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="LastName" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <Association Name="OwnerCat">
+    <End Role="Owner" Type="CatsModel.Store.OwnerSet" Multiplicity="1" />
+    <End Role="Cat" Type="CatsModel.Store.CatSet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Owner">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Cat">
+        <PropertyRef Name="Owner_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

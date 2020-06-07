@@ -1,0 +1,7 @@
+D:\ADO.NET\Tasks\Tasks\bin\Debug\Tasks.exe.config
+D:\ADO.NET\Tasks\Tasks\bin\Debug\Tasks.exe
+D:\ADO.NET\Tasks\Tasks\bin\Debug\Tasks.pdb
+D:\ADO.NET\Tasks\Tasks\obj\Debug\Tasks.csprojAssemblyReference.cache
+D:\ADO.NET\Tasks\Tasks\obj\Debug\Tasks.csproj.CoreCompileInputs.cache
+D:\ADO.NET\Tasks\Tasks\obj\Debug\Tasks.exe
+D:\ADO.NET\Tasks\Tasks\obj\Debug\Tasks.pdb

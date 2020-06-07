@@ -1,0 +1,6 @@
+SELECT [t0].[Id], [t0].[Name], [t0].[Kind] AS [Vid], [t0].[Age]
+FROM [Malpy] AS [t0]
+WHERE [t0].[Age] > @p0
+-- @p0: Input Int (Size = -1; Prec = 0; Scale = 0) [10]
+-- Context: SqlProvider(Sql2008) Model: AttributedMetaModel Build: 4.7.2556.0
+

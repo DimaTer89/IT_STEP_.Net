@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="CatsModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="CatsModelContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CatSet" EntityType="CatsModel.Cat" />
+    <EntitySet Name="OwnerSet" EntityType="CatsModel.Owner" />
+    <AssociationSet Name="OwnerCat" Association="CatsModel.OwnerCat">
+      <End Role="Owner" EntitySet="OwnerSet" />
+      <End Role="Cat" EntitySet="CatSet" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Cat">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" />
+    <Property Name="Age" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Owner" Relationship="CatsModel.OwnerCat" FromRole="Cat" ToRole="Owner" />
+  </EntityType>
+  <EntityType Name="Owner">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="LastName" Type="String" Nullable="false" />
+    <NavigationProperty Name="Cats" Relationship="CatsModel.OwnerCat" FromRole="Owner" ToRole="Cat" />
+  </EntityType>
+  <Association Name="OwnerCat">
+    <End Type="CatsModel.Owner" Role="Owner" Multiplicity="1" />
+    <End Type="CatsModel.Cat" Role="Cat" Multiplicity="*" />
+  </Association>
+</Schema>
