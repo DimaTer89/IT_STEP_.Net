@@ -1,9 +1,0 @@
-G:\WCF\Примеры\WCF_2\Client\NedoChatClient\NedoChatClient\obj\Debug\NedoChatClient.Client.resources
-G:\WCF\Примеры\WCF_2\Client\NedoChatClient\NedoChatClient\obj\Debug\NedoChatClient.Properties.Resources.resources
-G:\WCF\Примеры\WCF_2\Client\NedoChatClient\NedoChatClient\obj\Debug\NedoChatClient.csproj.GenerateResource.cache
-G:\WCF\Примеры\WCF_2\Client\NedoChatClient\NedoChatClient\obj\Debug\NedoChatClient.csproj.CoreCompileInputs.cache
-G:\WCF\Примеры\WCF_2\Client\NedoChatClient\NedoChatClient\bin\Debug\NedoChatClient.exe.config
-G:\WCF\Примеры\WCF_2\Client\NedoChatClient\NedoChatClient\bin\Debug\NedoChatClient.exe
-G:\WCF\Примеры\WCF_2\Client\NedoChatClient\NedoChatClient\bin\Debug\NedoChatClient.pdb
-G:\WCF\Примеры\WCF_2\Client\NedoChatClient\NedoChatClient\obj\Debug\NedoChatClient.exe
-G:\WCF\Примеры\WCF_2\Client\NedoChatClient\NedoChatClient\obj\Debug\NedoChatClient.pdb
