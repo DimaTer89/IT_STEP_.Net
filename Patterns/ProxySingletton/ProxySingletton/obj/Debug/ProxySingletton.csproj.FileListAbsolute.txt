@@ -1,0 +1,11 @@
+D:\Patterns\ProxySingletton\ProxySingletton\bin\Debug\ProxySingletton.exe.config
+D:\Patterns\ProxySingletton\ProxySingletton\bin\Debug\ProxySingletton.exe
+D:\Patterns\ProxySingletton\ProxySingletton\bin\Debug\ProxySingletton.pdb
+D:\Patterns\ProxySingletton\ProxySingletton\obj\Debug\ProxySingletton.csprojResolveAssemblyReference.cache
+D:\Patterns\ProxySingletton\ProxySingletton\obj\Debug\ProxySingletton.Form1.resources
+D:\Patterns\ProxySingletton\ProxySingletton\obj\Debug\ProxySingletton.PrizeOrder.resources
+D:\Patterns\ProxySingletton\ProxySingletton\obj\Debug\ProxySingletton.Properties.Resources.resources
+D:\Patterns\ProxySingletton\ProxySingletton\obj\Debug\ProxySingletton.csproj.GenerateResource.Cache
+D:\Patterns\ProxySingletton\ProxySingletton\obj\Debug\ProxySingletton.csproj.CoreCompileInputs.cache
+D:\Patterns\ProxySingletton\ProxySingletton\obj\Debug\ProxySingletton.exe
+D:\Patterns\ProxySingletton\ProxySingletton\obj\Debug\ProxySingletton.pdb

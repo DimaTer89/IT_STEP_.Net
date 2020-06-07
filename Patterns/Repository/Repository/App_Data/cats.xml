@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<cats>
+  <cat id="1">
+    <name>Барон</name>
+    <weight>12</weight>
+  </cat>
+  <cat id="2">
+    <name>Киса</name>
+    <weight>10</weight>
+  </cat>
+</cats>
