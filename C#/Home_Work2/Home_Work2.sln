@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Home_Work2", "Home_Work2\Home_Work2.csproj", "{50109771-3E6E-42CD-9505-6914D6E07BAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "physical_material", "physical_material\physical_material.csproj", "{FE9DEE68-ACFB-42CB-B328-22917983EA2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50109771-3E6E-42CD-9505-6914D6E07BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50109771-3E6E-42CD-9505-6914D6E07BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50109771-3E6E-42CD-9505-6914D6E07BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50109771-3E6E-42CD-9505-6914D6E07BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE9DEE68-ACFB-42CB-B328-22917983EA2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE9DEE68-ACFB-42CB-B328-22917983EA2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE9DEE68-ACFB-42CB-B328-22917983EA2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE9DEE68-ACFB-42CB-B328-22917983EA2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0D8B4DA-C8CA-4A3F-9EE0-C64218304CC8}
+	EndGlobalSection
+EndGlobal

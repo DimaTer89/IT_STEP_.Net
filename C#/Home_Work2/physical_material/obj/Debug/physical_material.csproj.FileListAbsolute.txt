@@ -1,0 +1,7 @@
+D:\C#\Home_Work2\physical_material\bin\Debug\physical_material.exe.config
+D:\C#\Home_Work2\physical_material\bin\Debug\physical_material.exe
+D:\C#\Home_Work2\physical_material\bin\Debug\physical_material.pdb
+D:\C#\Home_Work2\physical_material\obj\Debug\physical_material.csprojResolveAssemblyReference.cache
+D:\C#\Home_Work2\physical_material\obj\Debug\physical_material.csproj.CoreCompileInputs.cache
+D:\C#\Home_Work2\physical_material\obj\Debug\physical_material.exe
+D:\C#\Home_Work2\physical_material\obj\Debug\physical_material.pdb

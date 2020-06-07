@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<ArrayOfSportsman xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sportsman xsi:type="Gymnast">
+    <Surname>Байлз</Surname>
+    <Age>16</Age>
+    <KindOfSport>гимнастика</KindOfSport>
+    <RingExercises>9.87</RingExercises>
+    <ExercisesOnUnevenBars>9.6</ExercisesOnUnevenBars>
+    <Vault>10</Vault>
+  </Sportsman>
+  <Sportsman xsi:type="Swimmer">
+    <Surname>Фелпс</Surname>
+    <Age>17</Age>
+    <KindOfSport>плавание</KindOfSport>
+    <SwimResult>
+      <double>20.3</double>
+      <double>22.7</double>
+      <double>23.4</double>
+      <double>21.4</double>
+      <double>19.2</double>
+    </SwimResult>
+  </Sportsman>
+  <Sportsman xsi:type="Gymnast">
+    <Surname>Немов</Surname>
+    <Age>18</Age>
+    <KindOfSport>гимнастика</KindOfSport>
+    <RingExercises>9.8</RingExercises>
+    <ExercisesOnUnevenBars>9.6</ExercisesOnUnevenBars>
+    <Vault>9.6</Vault>
+  </Sportsman>
+  <Sportsman xsi:type="Gymnast">
+    <Surname>Учимура</Surname>
+    <Age>19</Age>
+    <KindOfSport>гимнастика</KindOfSport>
+    <RingExercises>9.6</RingExercises>
+    <ExercisesOnUnevenBars>9.4</ExercisesOnUnevenBars>
+    <Vault>9.8</Vault>
+  </Sportsman>
+  <Sportsman xsi:type="Swimmer">
+    <Surname>Торп</Surname>
+    <Age>19</Age>
+    <KindOfSport>плавание</KindOfSport>
+    <SwimResult>
+      <double>22.6</double>
+      <double>34.3</double>
+      <double>35.3</double>
+      <double>21.2</double>
+      <double>40.2</double>
+    </SwimResult>
+  </Sportsman>
+  <Sportsman xsi:type="Swimmer">
+    <Surname>Лохте</Surname>
+    <Age>19</Age>
+    <KindOfSport>плавание</KindOfSport>
+    <SwimResult>
+      <double>21.3</double>
+      <double>32.7</double>
+      <double>33.7</double>
+      <double>24.4</double>
+      <double>31.2</double>
+    </SwimResult>
+  </Sportsman>
+  <Sportsman xsi:type="Gymnast">
+    <Surname>Щербо</Surname>
+    <Age>20</Age>
+    <KindOfSport>гимнастика</KindOfSport>
+    <RingExercises>9.4</RingExercises>
+    <ExercisesOnUnevenBars>9.9</ExercisesOnUnevenBars>
+    <Vault>9.4</Vault>
+  </Sportsman>
+  <Sportsman xsi:type="Gymnast">
+    <Surname>Шахлин</Surname>
+    <Age>20</Age>
+    <KindOfSport>гимнастика</KindOfSport>
+    <RingExercises>9.3</RingExercises>
+    <ExercisesOnUnevenBars>9.1</ExercisesOnUnevenBars>
+    <Vault>9.5</Vault>
+  </Sportsman>
+  <Sportsman xsi:type="Gymnast">
+    <Surname>Хоркина</Surname>
+    <Age>23</Age>
+    <KindOfSport>гимнастика</KindOfSport>
+    <RingExercises>9.9</RingExercises>
+    <ExercisesOnUnevenBars>9.7</ExercisesOnUnevenBars>
+    <Vault>9.3</Vault>
+  </Sportsman>
+  <Sportsman xsi:type="Swimmer">
+    <Surname>Чех</Surname>
+    <Age>24</Age>
+    <KindOfSport>плавание</KindOfSport>
+    <SwimResult>
+      <double>21.2</double>
+      <double>28.7</double>
+      <double>29.7</double>
+      <double>25.6</double>
+      <double>21.45</double>
+    </SwimResult>
+  </Sportsman>
+  <Sportsman xsi:type="Gymnast">
+    <Surname>Чаславска</Surname>
+    <Age>25</Age>
+    <KindOfSport>гимнастика</KindOfSport>
+    <RingExercises>9.66</RingExercises>
+    <ExercisesOnUnevenBars>9.7</ExercisesOnUnevenBars>
+    <Vault>9.9</Vault>
+  </Sportsman>
+  <Sportsman xsi:type="Swimmer">
+    <Surname>ле Клос</Surname>
+    <Age>25</Age>
+    <KindOfSport>плавание</KindOfSport>
+    <SwimResult>
+      <double>22.3</double>
+      <double>38.7</double>
+      <double>39.7</double>
+      <double>25.4</double>
+      <double>41.2</double>
+    </SwimResult>
+  </Sportsman>
+</ArrayOfSportsman>

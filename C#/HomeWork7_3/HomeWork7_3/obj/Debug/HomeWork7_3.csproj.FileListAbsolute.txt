@@ -1,0 +1,7 @@
+D:\C#\HomeWork7_3\HomeWork7_3\bin\Debug\HomeWork7_3.exe.config
+D:\C#\HomeWork7_3\HomeWork7_3\bin\Debug\HomeWork7_3.exe
+D:\C#\HomeWork7_3\HomeWork7_3\bin\Debug\HomeWork7_3.pdb
+D:\C#\HomeWork7_3\HomeWork7_3\obj\Debug\HomeWork7_3.csprojResolveAssemblyReference.cache
+D:\C#\HomeWork7_3\HomeWork7_3\obj\Debug\HomeWork7_3.csproj.CoreCompileInputs.cache
+D:\C#\HomeWork7_3\HomeWork7_3\obj\Debug\HomeWork7_3.exe
+D:\C#\HomeWork7_3\HomeWork7_3\obj\Debug\HomeWork7_3.pdb
