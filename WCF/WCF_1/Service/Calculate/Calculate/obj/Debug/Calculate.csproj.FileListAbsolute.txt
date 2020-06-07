@@ -1,0 +1,5 @@
+G:\WCF\Примеры\WCF_1\Service\Calculate\Calculate\bin\Debug\Calculate.dll
+G:\WCF\Примеры\WCF_1\Service\Calculate\Calculate\bin\Debug\Calculate.pdb
+G:\WCF\Примеры\WCF_1\Service\Calculate\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+G:\WCF\Примеры\WCF_1\Service\Calculate\Calculate\obj\Debug\Calculate.dll
+G:\WCF\Примеры\WCF_1\Service\Calculate\Calculate\obj\Debug\Calculate.pdb

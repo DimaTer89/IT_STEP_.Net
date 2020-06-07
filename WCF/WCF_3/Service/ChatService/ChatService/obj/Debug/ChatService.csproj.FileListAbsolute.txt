@@ -1,0 +1,2 @@
+G:\WCF\Примеры\WCF_3\Service\ChatService\ChatService\obj\Debug\ChatService.csprojAssemblyReference.cache
+G:\WCF\Примеры\WCF_3\Service\ChatService\ChatService\obj\Debug\ChatService.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+G:\WCF\Примеры\WCF_1\Service\Calculate\Host\bin\Debug\Host.exe.config
+G:\WCF\Примеры\WCF_1\Service\Calculate\Host\bin\Debug\Host.exe
+G:\WCF\Примеры\WCF_1\Service\Calculate\Host\bin\Debug\Host.pdb
+G:\WCF\Примеры\WCF_1\Service\Calculate\Host\obj\Debug\Host.csprojAssemblyReference.cache
+G:\WCF\Примеры\WCF_1\Service\Calculate\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+G:\WCF\Примеры\WCF_1\Service\Calculate\Host\obj\Debug\Host.exe
+G:\WCF\Примеры\WCF_1\Service\Calculate\Host\obj\Debug\Host.pdb
+G:\WCF\Примеры\WCF_1\Service\Calculate\Host\bin\Debug\Calculate.dll
+G:\WCF\Примеры\WCF_1\Service\Calculate\Host\bin\Debug\Calculate.pdb
+G:\WCF\Примеры\WCF_1\Service\Calculate\Host\obj\Debug\Host.csproj.CopyComplete

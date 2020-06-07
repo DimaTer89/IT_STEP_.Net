@@ -1,0 +1,12 @@
+F:\TANJA\Допработа\АЙТИШАГ\ПРОГРАММЫ ДЛЯ 4 СЕМЕСТРА\WCF\Примеры\Банк_Сессии_Конкуренции\ІBankService\ІBankService\bin\Debug\ІBankService.dll.config
+F:\TANJA\Допработа\АЙТИШАГ\ПРОГРАММЫ ДЛЯ 4 СЕМЕСТРА\WCF\Примеры\Банк_Сессии_Конкуренции\ІBankService\ІBankService\bin\Debug\ІBankService.dll
+F:\TANJA\Допработа\АЙТИШАГ\ПРОГРАММЫ ДЛЯ 4 СЕМЕСТРА\WCF\Примеры\Банк_Сессии_Конкуренции\ІBankService\ІBankService\bin\Debug\ІBankService.pdb
+F:\TANJA\Допработа\АЙТИШАГ\ПРОГРАММЫ ДЛЯ 4 СЕМЕСТРА\WCF\Примеры\Банк_Сессии_Конкуренции\ІBankService\ІBankService\obj\Debug\ІBankService.dll
+F:\TANJA\Допработа\АЙТИШАГ\ПРОГРАММЫ ДЛЯ 4 СЕМЕСТРА\WCF\Примеры\Банк_Сессии_Конкуренции\ІBankService\ІBankService\obj\Debug\ІBankService.pdb
+G:\П21017\WCF\Примеры\Банк_Сессии_Конкуренции\ІBankService\ІBankService\bin\Debug\ІBankService.dll.config
+G:\П21017\WCF\Примеры\Банк_Сессии_Конкуренции\ІBankService\ІBankService\bin\Debug\ІBankService.dll
+G:\П21017\WCF\Примеры\Банк_Сессии_Конкуренции\ІBankService\ІBankService\bin\Debug\ІBankService.pdb
+G:\П21017\WCF\Примеры\Банк_Сессии_Конкуренции\ІBankService\ІBankService\obj\Debug\BankServiceProject.csprojAssemblyReference.cache
+G:\П21017\WCF\Примеры\Банк_Сессии_Конкуренции\ІBankService\ІBankService\obj\Debug\BankServiceProject.csproj.CoreCompileInputs.cache
+G:\П21017\WCF\Примеры\Банк_Сессии_Конкуренции\ІBankService\ІBankService\obj\Debug\ІBankService.dll
+G:\П21017\WCF\Примеры\Банк_Сессии_Конкуренции\ІBankService\ІBankService\obj\Debug\ІBankService.pdb

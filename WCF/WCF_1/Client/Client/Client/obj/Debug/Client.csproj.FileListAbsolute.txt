@@ -1,0 +1,6 @@
+G:\WCF\Примеры\WCF_1\Client\Client\Client\bin\Debug\Client.exe.config
+G:\WCF\Примеры\WCF_1\Client\Client\Client\bin\Debug\Client.exe
+G:\WCF\Примеры\WCF_1\Client\Client\Client\bin\Debug\Client.pdb
+G:\WCF\Примеры\WCF_1\Client\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+G:\WCF\Примеры\WCF_1\Client\Client\Client\obj\Debug\Client.exe
+G:\WCF\Примеры\WCF_1\Client\Client\Client\obj\Debug\Client.pdb

@@ -1,0 +1,9 @@
+G:\WCF\Примеры\WCF_1\ClientForms\ClientForms\bin\Debug\ClientForms.exe.config
+G:\WCF\Примеры\WCF_1\ClientForms\ClientForms\bin\Debug\ClientForms.exe
+G:\WCF\Примеры\WCF_1\ClientForms\ClientForms\bin\Debug\ClientForms.pdb
+G:\WCF\Примеры\WCF_1\ClientForms\ClientForms\obj\Debug\ClientForms.Form1.resources
+G:\WCF\Примеры\WCF_1\ClientForms\ClientForms\obj\Debug\ClientForms.Properties.Resources.resources
+G:\WCF\Примеры\WCF_1\ClientForms\ClientForms\obj\Debug\ClientForms.csproj.GenerateResource.cache
+G:\WCF\Примеры\WCF_1\ClientForms\ClientForms\obj\Debug\ClientForms.csproj.CoreCompileInputs.cache
+G:\WCF\Примеры\WCF_1\ClientForms\ClientForms\obj\Debug\ClientForms.exe
+G:\WCF\Примеры\WCF_1\ClientForms\ClientForms\obj\Debug\ClientForms.pdb

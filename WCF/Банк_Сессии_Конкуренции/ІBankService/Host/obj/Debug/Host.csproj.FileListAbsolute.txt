@@ -1,0 +1,19 @@
+F:\TANJA\Допработа\АЙТИШАГ\ПРОГРАММЫ ДЛЯ 4 СЕМЕСТРА\WCF\Примеры\Банк_Сессии_Конкуренции\ІBankService\Host\bin\Debug\Host.exe.config
+F:\TANJA\Допработа\АЙТИШАГ\ПРОГРАММЫ ДЛЯ 4 СЕМЕСТРА\WCF\Примеры\Банк_Сессии_Конкуренции\ІBankService\Host\bin\Debug\Host.exe
+F:\TANJA\Допработа\АЙТИШАГ\ПРОГРАММЫ ДЛЯ 4 СЕМЕСТРА\WCF\Примеры\Банк_Сессии_Конкуренции\ІBankService\Host\bin\Debug\Host.pdb
+F:\TANJA\Допработа\АЙТИШАГ\ПРОГРАММЫ ДЛЯ 4 СЕМЕСТРА\WCF\Примеры\Банк_Сессии_Конкуренции\ІBankService\Host\bin\Debug\ІBankService.dll
+F:\TANJA\Допработа\АЙТИШАГ\ПРОГРАММЫ ДЛЯ 4 СЕМЕСТРА\WCF\Примеры\Банк_Сессии_Конкуренции\ІBankService\Host\bin\Debug\ІBankService.pdb
+F:\TANJA\Допработа\АЙТИШАГ\ПРОГРАММЫ ДЛЯ 4 СЕМЕСТРА\WCF\Примеры\Банк_Сессии_Конкуренции\ІBankService\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache
+F:\TANJA\Допработа\АЙТИШАГ\ПРОГРАММЫ ДЛЯ 4 СЕМЕСТРА\WCF\Примеры\Банк_Сессии_Конкуренции\ІBankService\Host\obj\Debug\Host.exe
+F:\TANJA\Допработа\АЙТИШАГ\ПРОГРАММЫ ДЛЯ 4 СЕМЕСТРА\WCF\Примеры\Банк_Сессии_Конкуренции\ІBankService\Host\obj\Debug\Host.pdb
+G:\П21017\WCF\Примеры\Банк_Сессии_Конкуренции\ІBankService\Host\bin\Debug\Host.exe.config
+G:\П21017\WCF\Примеры\Банк_Сессии_Конкуренции\ІBankService\Host\bin\Debug\Host.exe
+G:\П21017\WCF\Примеры\Банк_Сессии_Конкуренции\ІBankService\Host\bin\Debug\Host.pdb
+G:\П21017\WCF\Примеры\Банк_Сессии_Конкуренции\ІBankService\Host\bin\Debug\ІBankService.dll
+G:\П21017\WCF\Примеры\Банк_Сессии_Конкуренции\ІBankService\Host\bin\Debug\ІBankService.pdb
+G:\П21017\WCF\Примеры\Банк_Сессии_Конкуренции\ІBankService\Host\bin\Debug\ІBankService.dll.config
+G:\П21017\WCF\Примеры\Банк_Сессии_Конкуренции\ІBankService\Host\obj\Debug\Host.csprojAssemblyReference.cache
+G:\П21017\WCF\Примеры\Банк_Сессии_Конкуренции\ІBankService\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+G:\П21017\WCF\Примеры\Банк_Сессии_Конкуренции\ІBankService\Host\obj\Debug\Host.csproj.CopyComplete
+G:\П21017\WCF\Примеры\Банк_Сессии_Конкуренции\ІBankService\Host\obj\Debug\Host.exe
+G:\П21017\WCF\Примеры\Банк_Сессии_Конкуренции\ІBankService\Host\obj\Debug\Host.pdb

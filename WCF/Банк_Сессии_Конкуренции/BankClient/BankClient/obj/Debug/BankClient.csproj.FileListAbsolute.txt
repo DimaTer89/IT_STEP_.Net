@@ -1,0 +1,19 @@
+F:\TANJA\Допработа\АЙТИШАГ\ПРОГРАММЫ ДЛЯ 4 СЕМЕСТРА\WCF\Примеры\Банк_Сессии_Конкуренции\BankClient\BankClient\bin\Debug\BankClient.exe.config
+F:\TANJA\Допработа\АЙТИШАГ\ПРОГРАММЫ ДЛЯ 4 СЕМЕСТРА\WCF\Примеры\Банк_Сессии_Конкуренции\BankClient\BankClient\bin\Debug\BankClient.exe
+F:\TANJA\Допработа\АЙТИШАГ\ПРОГРАММЫ ДЛЯ 4 СЕМЕСТРА\WCF\Примеры\Банк_Сессии_Конкуренции\BankClient\BankClient\bin\Debug\BankClient.pdb
+F:\TANJA\Допработа\АЙТИШАГ\ПРОГРАММЫ ДЛЯ 4 СЕМЕСТРА\WCF\Примеры\Банк_Сессии_Конкуренции\BankClient\BankClient\obj\Debug\BankClient.csprojResolveAssemblyReference.cache
+F:\TANJA\Допработа\АЙТИШАГ\ПРОГРАММЫ ДЛЯ 4 СЕМЕСТРА\WCF\Примеры\Банк_Сессии_Конкуренции\BankClient\BankClient\obj\Debug\BankClient.Form1.resources
+F:\TANJA\Допработа\АЙТИШАГ\ПРОГРАММЫ ДЛЯ 4 СЕМЕСТРА\WCF\Примеры\Банк_Сессии_Конкуренции\BankClient\BankClient\obj\Debug\BankClient.Properties.Resources.resources
+F:\TANJA\Допработа\АЙТИШАГ\ПРОГРАММЫ ДЛЯ 4 СЕМЕСТРА\WCF\Примеры\Банк_Сессии_Конкуренции\BankClient\BankClient\obj\Debug\BankClient.csproj.GenerateResource.Cache
+F:\TANJA\Допработа\АЙТИШАГ\ПРОГРАММЫ ДЛЯ 4 СЕМЕСТРА\WCF\Примеры\Банк_Сессии_Конкуренции\BankClient\BankClient\obj\Debug\BankClient.exe
+F:\TANJA\Допработа\АЙТИШАГ\ПРОГРАММЫ ДЛЯ 4 СЕМЕСТРА\WCF\Примеры\Банк_Сессии_Конкуренции\BankClient\BankClient\obj\Debug\BankClient.pdb
+g:\П21017\WCF\Примеры\Банк_Сессии_Конкуренции\BankClient\BankClient\bin\Debug\BankClient.exe.config
+g:\П21017\WCF\Примеры\Банк_Сессии_Конкуренции\BankClient\BankClient\bin\Debug\BankClient.exe
+g:\П21017\WCF\Примеры\Банк_Сессии_Конкуренции\BankClient\BankClient\bin\Debug\BankClient.pdb
+g:\П21017\WCF\Примеры\Банк_Сессии_Конкуренции\BankClient\BankClient\obj\Debug\BankClient.csprojAssemblyReference.cache
+g:\П21017\WCF\Примеры\Банк_Сессии_Конкуренции\BankClient\BankClient\obj\Debug\BankClient.Form1.resources
+g:\П21017\WCF\Примеры\Банк_Сессии_Конкуренции\BankClient\BankClient\obj\Debug\BankClient.Properties.Resources.resources
+g:\П21017\WCF\Примеры\Банк_Сессии_Конкуренции\BankClient\BankClient\obj\Debug\BankClient.csproj.GenerateResource.cache
+g:\П21017\WCF\Примеры\Банк_Сессии_Конкуренции\BankClient\BankClient\obj\Debug\BankClient.csproj.CoreCompileInputs.cache
+g:\П21017\WCF\Примеры\Банк_Сессии_Конкуренции\BankClient\BankClient\obj\Debug\BankClient.exe
+g:\П21017\WCF\Примеры\Банк_Сессии_Конкуренции\BankClient\BankClient\obj\Debug\BankClient.pdb
