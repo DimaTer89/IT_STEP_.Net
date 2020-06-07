@@ -1,0 +1,135 @@
+﻿<Window x:Class="WPF_HomeWork4_Tereshchenko.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_HomeWork4_Tereshchenko"
+        mc:Ignorable="d"
+        Title="Examen" Height="650" Width="655"
+        >
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="NotDarkSkin.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+     </Window.Resources>
+    <TabControl FlowDirection="RightToLeft">
+        <TabControl.Resources>
+            <Style TargetType="Paragraph" x:Key="paragraphStyle">
+                <Style.Setters>
+                    <Setter Property="FontSize" Value="20"/>
+                    <Setter Property="Foreground" Value="Blue"/>
+                    <Setter Property="Margin" Value="20"/>
+                </Style.Setters>
+            </Style>
+            <Style TargetType="Paragraph" BasedOn="{StaticResource paragraphStyle}"
+               x:Key="paragraphStyle2">
+                <Setter Property="FontSize" Value="15"/>
+            </Style>
+        </TabControl.Resources>
+        <TabItem Header="About author" FlowDirection="LeftToRight">
+            <FlowDocumentScrollViewer IsToolBarVisible="True">
+                <FlowDocument>
+                    <Paragraph Style="{StaticResource paragraphStyle}" >
+                        Автор этой программы - крутой программист
+                    </Paragraph>
+                    <Paragraph Style="{StaticResource paragraphStyle2}">
+                        Он очень старался и написал эту чудесную программу. Он
+                    </Paragraph>
+                    <List MarkerStyle="Square">
+                        <ListItem >
+                            <Paragraph>
+                                знает C#
+                            </Paragraph>
+                        </ListItem>
+                        <ListItem >
+                            <Paragraph>
+                                умеет переустанавливать Windows
+                            </Paragraph>
+                        </ListItem>
+                        <ListItem >
+                            <Paragraph>
+                                работает за идею
+                            </Paragraph>
+                        </ListItem>
+                    </List>
+                    <Paragraph>
+                        Помни !!! Плохое ПО одного человека - постоянная работа другого.
+                    Если сразу не получилось хорошо, назовите это версией 1.0.
+                    Любой твой код, в который ты не заглядывал больше 
+                    шести месяцев, будет выглядеть как код, который написал кто-то другой.
+                    Программирование сегодня - это гонка, в которой разработчики
+                    ПО стремятся построить больше качественных программ,
+                        <Figure HorizontalAnchor="PageRight"
+                            Width="170"
+                            Height="170">
+                            <Paragraph FontFamily="Vivaldi"
+                                   FontSize="20">
+                                Программист
+                            </Paragraph>
+                            <BlockUIContainer>
+                                <Image Source="samurai.jpg"/>
+                            </BlockUIContainer>
+                        </Figure>
+                        защищённых от идиотов, а вселенная стремиться
+                    породить больше качественных идиотов.
+                    Пока вселенная побеждает
+
+                    </Paragraph>
+                </FlowDocument>
+            </FlowDocumentScrollViewer>
+         </TabItem>
+        <TabItem Header="Calculation" FlowDirection="LeftToRight" >
+            <DockPanel LastChildFill="True">
+                <Menu DockPanel.Dock="Top" FontSize="15">
+                    <MenuItem Header="Dark Skin" Click="MenuItem_Click"/>
+                    <MenuItem Header="Not Dark Skin" Click="MenuItem_Click_1"/>
+                </Menu>
+                <StackPanel Name="stackPanel">
+                    <StackPanel.ContextMenu>
+                        <ContextMenu>
+                            <MenuItem Header="Изменить цвет фона окна" Click="MenuItem_Click_2"/>
+                            <MenuItem Header="Изменить шрифт окна" Click="MenuItem_Click_3"/>
+                        </ContextMenu>
+                    </StackPanel.ContextMenu>
+                    <StackPanel Orientation="Horizontal">
+                        <Label Name="label1" Style="{DynamicResource labelStyle}" Content="Ваш вес="/>
+                        <TextBox x:Name="weight"
+                           Style="{DynamicResource textBoxStyle}" />
+                        <Label Name="label2" Style="{DynamicResource labelStyle}" Content=" Ваш рост="/>
+                        <TextBox x:Name="height" Style="{DynamicResource textBoxStyle}"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Label Name="label3" Style="{DynamicResource labelStyle}" Content="Рекомендации"/>
+                        <TextBox x:Name="rec" 
+                                 Style="{DynamicResource textBoxStyle}" IsReadOnly="True"
+                                 Width="290"
+                                 FontSize="14" Height="35"/>
+                        <Button  Style="{DynamicResource buttonStyle}"
+                                 Width="155"
+                                 Content="Получить совет"
+                                 RenderTransformOrigin="0.5,0.5"
+                                 Click="Button_Click">
+                            <Button.RenderTransform>
+                                <TransformGroup>
+                                    <ScaleTransform/>
+                                    <SkewTransform/>
+                                    <RotateTransform Angle="-27.646"/>
+                                    <TranslateTransform/>
+                                </TransformGroup>
+                            </Button.RenderTransform>
+                        </Button>
+                    </StackPanel>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="3*" />
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Image Source="samurai.jpg" Stretch="Fill"/>
+                    </Grid>
+                </StackPanel>
+            </DockPanel>
+         </TabItem>
+    </TabControl>
+</Window>

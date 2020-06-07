@@ -1,0 +1,16 @@
+D:\WPF\WPF_Examen\WPF_Examen\bin\Debug\WPF_Examen.exe.config
+D:\WPF\WPF_Examen\WPF_Examen\bin\Debug\WPF_Examen.exe
+D:\WPF\WPF_Examen\WPF_Examen\bin\Debug\WPF_Examen.pdb
+D:\WPF\WPF_Examen\WPF_Examen\obj\Debug\MainWindow.g.cs
+D:\WPF\WPF_Examen\WPF_Examen\obj\Debug\App.g.cs
+D:\WPF\WPF_Examen\WPF_Examen\obj\Debug\WPF_Examen_MarkupCompile.cache
+D:\WPF\WPF_Examen\WPF_Examen\obj\Debug\WPF_Examen_MarkupCompile.lref
+D:\WPF\WPF_Examen\WPF_Examen\obj\Debug\Light Skin.baml
+D:\WPF\WPF_Examen\WPF_Examen\obj\Debug\MainWindow.baml
+D:\WPF\WPF_Examen\WPF_Examen\obj\Debug\WPF_Examen.g.resources
+D:\WPF\WPF_Examen\WPF_Examen\obj\Debug\WPF_Examen.Properties.Resources.resources
+D:\WPF\WPF_Examen\WPF_Examen\obj\Debug\WPF_Examen.csproj.GenerateResource.Cache
+D:\WPF\WPF_Examen\WPF_Examen\obj\Debug\WPF_Examen.csproj.CoreCompileInputs.cache
+D:\WPF\WPF_Examen\WPF_Examen\obj\Debug\WPF_Examen.exe
+D:\WPF\WPF_Examen\WPF_Examen\obj\Debug\WPF_Examen.pdb
+D:\WPF\WPF_Examen\WPF_Examen\obj\Debug\Dark Skin.baml

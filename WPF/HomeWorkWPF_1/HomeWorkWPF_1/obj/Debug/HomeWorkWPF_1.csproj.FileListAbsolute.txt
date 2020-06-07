@@ -1,0 +1,15 @@
+D:\WPF\HomeWorkWPF_1\HomeWorkWPF_1\bin\Debug\HomeWorkWPF_1.exe.config
+D:\WPF\HomeWorkWPF_1\HomeWorkWPF_1\bin\Debug\HomeWorkWPF_1.exe
+D:\WPF\HomeWorkWPF_1\HomeWorkWPF_1\bin\Debug\HomeWorkWPF_1.pdb
+D:\WPF\HomeWorkWPF_1\HomeWorkWPF_1\obj\Debug\HomeWorkWPF_1.csprojResolveAssemblyReference.cache
+D:\WPF\HomeWorkWPF_1\HomeWorkWPF_1\obj\Debug\MainWindow.g.cs
+D:\WPF\HomeWorkWPF_1\HomeWorkWPF_1\obj\Debug\App.g.cs
+D:\WPF\HomeWorkWPF_1\HomeWorkWPF_1\obj\Debug\HomeWorkWPF_1_MarkupCompile.cache
+D:\WPF\HomeWorkWPF_1\HomeWorkWPF_1\obj\Debug\HomeWorkWPF_1_MarkupCompile.lref
+D:\WPF\HomeWorkWPF_1\HomeWorkWPF_1\obj\Debug\MainWindow.baml
+D:\WPF\HomeWorkWPF_1\HomeWorkWPF_1\obj\Debug\HomeWorkWPF_1.g.resources
+D:\WPF\HomeWorkWPF_1\HomeWorkWPF_1\obj\Debug\HomeWorkWPF_1.Properties.Resources.resources
+D:\WPF\HomeWorkWPF_1\HomeWorkWPF_1\obj\Debug\HomeWorkWPF_1.csproj.GenerateResource.Cache
+D:\WPF\HomeWorkWPF_1\HomeWorkWPF_1\obj\Debug\HomeWorkWPF_1.csproj.CoreCompileInputs.cache
+D:\WPF\HomeWorkWPF_1\HomeWorkWPF_1\obj\Debug\HomeWorkWPF_1.exe
+D:\WPF\HomeWorkWPF_1\HomeWorkWPF_1\obj\Debug\HomeWorkWPF_1.pdb

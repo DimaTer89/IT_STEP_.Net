@@ -1,0 +1,58 @@
+﻿<Window x:Class="WPF_Gallery.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Gallery"
+        mc:Ignorable="d"
+        Title="Gallery" Height="525" Width="525">
+    <DockPanel>
+        <Menu FontSize="17"
+              DockPanel.Dock="Top">
+            <MenuItem Header="Open" Click="MenuItem_Click"/>
+            <MenuItem Header="Save" Click="MenuItem_Click_1"/>
+        </Menu>
+        <StatusBar FontSize="17"
+                   DockPanel.Dock="Bottom">
+            <Label x:Name="label"></Label>
+        </StatusBar>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.5*"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <UniformGrid Columns="4" Grid.Row="0">
+                <Image Margin="5"
+                       x:Name="image1"
+                       Stretch="Fill"
+                       Grid.Column="0" 
+                       Tag="im1.jpg"
+                       MouseLeftButtonDown="Image_MouseLeftButtonDown"/>
+                <Image Margin="5"
+                       x:Name="image2"
+                       Stretch="Fill"
+                       Tag="im2.jpg"
+                       Grid.Column="1" 
+                       MouseLeftButtonDown="Image_MouseLeftButtonDown"/>
+                <Image Margin="5"
+                       x:Name="image3"
+                       Stretch="Fill"
+                       Tag="im3.jpg"
+                       Grid.Column="1" 
+                       MouseLeftButtonDown="Image_MouseLeftButtonDown"/>
+                <Image Margin="5"
+                       x:Name="image4"
+                        Grid.Column="3"
+                        Stretch="Fill"
+                        Tag="im4.jpg"
+                        
+                        MouseLeftButtonDown="Image_MouseLeftButtonDown"/>
+            </UniformGrid>
+            <Image x:Name="currentImage"
+                   Margin="5" Grid.Row="1"
+                   Stretch="Fill"
+                   StretchDirection="Both"></Image>
+        </Grid>
+        
+    </DockPanel>
+</Window>

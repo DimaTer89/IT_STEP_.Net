@@ -1,0 +1,15 @@
+D:\WPF\WPF_Gallery\WPF_Gallery\bin\Debug\WPF_Gallery.exe.config
+D:\WPF\WPF_Gallery\WPF_Gallery\bin\Debug\WPF_Gallery.exe
+D:\WPF\WPF_Gallery\WPF_Gallery\bin\Debug\WPF_Gallery.pdb
+D:\WPF\WPF_Gallery\WPF_Gallery\obj\Debug\WPF_Gallery.csprojResolveAssemblyReference.cache
+D:\WPF\WPF_Gallery\WPF_Gallery\obj\Debug\MainWindow.g.cs
+D:\WPF\WPF_Gallery\WPF_Gallery\obj\Debug\App.g.cs
+D:\WPF\WPF_Gallery\WPF_Gallery\obj\Debug\WPF_Gallery_MarkupCompile.cache
+D:\WPF\WPF_Gallery\WPF_Gallery\obj\Debug\WPF_Gallery_MarkupCompile.lref
+D:\WPF\WPF_Gallery\WPF_Gallery\obj\Debug\MainWindow.baml
+D:\WPF\WPF_Gallery\WPF_Gallery\obj\Debug\WPF_Gallery.g.resources
+D:\WPF\WPF_Gallery\WPF_Gallery\obj\Debug\WPF_Gallery.Properties.Resources.resources
+D:\WPF\WPF_Gallery\WPF_Gallery\obj\Debug\WPF_Gallery.csproj.GenerateResource.Cache
+D:\WPF\WPF_Gallery\WPF_Gallery\obj\Debug\WPF_Gallery.csproj.CoreCompileInputs.cache
+D:\WPF\WPF_Gallery\WPF_Gallery\obj\Debug\WPF_Gallery.exe
+D:\WPF\WPF_Gallery\WPF_Gallery\obj\Debug\WPF_Gallery.pdb
