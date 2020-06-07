@@ -1,0 +1,10 @@
+D:\ADO.NET\ADO.NET_Task_Epam\ADO.NET_Task_Epam\bin\Debug\ADO.NET_Task_Epam.exe.config
+D:\ADO.NET\ADO.NET_Task_Epam\ADO.NET_Task_Epam\bin\Debug\ADO.NET_Task_Epam.exe
+D:\ADO.NET\ADO.NET_Task_Epam\ADO.NET_Task_Epam\bin\Debug\ADO.NET_Task_Epam.pdb
+D:\ADO.NET\ADO.NET_Task_Epam\ADO.NET_Task_Epam\obj\Debug\ADO.NET_Task_Epam.csprojAssemblyReference.cache
+D:\ADO.NET\ADO.NET_Task_Epam\ADO.NET_Task_Epam\obj\Debug\ADO.NET_Task_Epam.Form1.resources
+D:\ADO.NET\ADO.NET_Task_Epam\ADO.NET_Task_Epam\obj\Debug\ADO.NET_Task_Epam.Properties.Resources.resources
+D:\ADO.NET\ADO.NET_Task_Epam\ADO.NET_Task_Epam\obj\Debug\ADO.NET_Task_Epam.csproj.GenerateResource.cache
+D:\ADO.NET\ADO.NET_Task_Epam\ADO.NET_Task_Epam\obj\Debug\ADO.NET_Task_Epam.csproj.CoreCompileInputs.cache
+D:\ADO.NET\ADO.NET_Task_Epam\ADO.NET_Task_Epam\obj\Debug\ADO.NET_Task_Epam.exe
+D:\ADO.NET\ADO.NET_Task_Epam\ADO.NET_Task_Epam\obj\Debug\ADO.NET_Task_Epam.pdb

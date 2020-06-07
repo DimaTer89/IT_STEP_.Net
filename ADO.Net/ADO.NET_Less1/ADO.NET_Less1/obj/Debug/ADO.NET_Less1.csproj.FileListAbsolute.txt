@@ -1,0 +1,10 @@
+D:\ADO.NET\ADO.NET_Less1\ADO.NET_Less1\bin\Debug\ADO.NET_Less1.exe.config
+D:\ADO.NET\ADO.NET_Less1\ADO.NET_Less1\bin\Debug\ADO.NET_Less1.exe
+D:\ADO.NET\ADO.NET_Less1\ADO.NET_Less1\bin\Debug\ADO.NET_Less1.pdb
+D:\ADO.NET\ADO.NET_Less1\ADO.NET_Less1\obj\Debug\ADO.NET_Less1.csprojAssemblyReference.cache
+D:\ADO.NET\ADO.NET_Less1\ADO.NET_Less1\obj\Debug\ADO.NET_Less1.Form1.resources
+D:\ADO.NET\ADO.NET_Less1\ADO.NET_Less1\obj\Debug\ADO.NET_Less1.Properties.Resources.resources
+D:\ADO.NET\ADO.NET_Less1\ADO.NET_Less1\obj\Debug\ADO.NET_Less1.csproj.GenerateResource.cache
+D:\ADO.NET\ADO.NET_Less1\ADO.NET_Less1\obj\Debug\ADO.NET_Less1.csproj.CoreCompileInputs.cache
+D:\ADO.NET\ADO.NET_Less1\ADO.NET_Less1\obj\Debug\ADO.NET_Less1.exe
+D:\ADO.NET\ADO.NET_Less1\ADO.NET_Less1\obj\Debug\ADO.NET_Less1.pdb

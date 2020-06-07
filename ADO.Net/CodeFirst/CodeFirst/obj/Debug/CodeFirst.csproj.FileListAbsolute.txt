@@ -1,0 +1,17 @@
+D:\ADO.NET\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe.config
+D:\ADO.NET\CodeFirst\CodeFirst\bin\Debug\CodeFirst.exe
+D:\ADO.NET\CodeFirst\CodeFirst\bin\Debug\CodeFirst.pdb
+D:\ADO.NET\CodeFirst\CodeFirst\bin\Debug\EntityFramework.dll
+D:\ADO.NET\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\ADO.NET\CodeFirst\CodeFirst\bin\Debug\EntityFramework.xml
+D:\ADO.NET\CodeFirst\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\ADO.NET\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csprojAssemblyReference.cache
+D:\ADO.NET\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Properties.Resources.resources
+D:\ADO.NET\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.GenerateResource.cache
+D:\ADO.NET\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+D:\ADO.NET\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+D:\ADO.NET\CodeFirst\CodeFirst\obj\Debug\CodeFirst.exe
+D:\ADO.NET\CodeFirst\CodeFirst\obj\Debug\CodeFirst.pdb
+D:\ADO.NET\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Form1.resources
+D:\ADO.NET\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.InitialCreate.resources
+D:\ADO.NET\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.AddProfile.resources

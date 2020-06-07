@@ -1,0 +1,10 @@
+D:\ADO.NET\ADO.NET_Less2_Factory\ADO.NET_Less2_Factory\bin\Debug\ADO.NET_Less2_Factory.exe.config
+D:\ADO.NET\ADO.NET_Less2_Factory\ADO.NET_Less2_Factory\bin\Debug\ADO.NET_Less2_Factory.exe
+D:\ADO.NET\ADO.NET_Less2_Factory\ADO.NET_Less2_Factory\bin\Debug\ADO.NET_Less2_Factory.pdb
+D:\ADO.NET\ADO.NET_Less2_Factory\ADO.NET_Less2_Factory\obj\Debug\ADO.NET_Less2_Factory.csprojAssemblyReference.cache
+D:\ADO.NET\ADO.NET_Less2_Factory\ADO.NET_Less2_Factory\obj\Debug\ADO.NET_Less2_Factory.Form1.resources
+D:\ADO.NET\ADO.NET_Less2_Factory\ADO.NET_Less2_Factory\obj\Debug\ADO.NET_Less2_Factory.Properties.Resources.resources
+D:\ADO.NET\ADO.NET_Less2_Factory\ADO.NET_Less2_Factory\obj\Debug\ADO.NET_Less2_Factory.csproj.GenerateResource.cache
+D:\ADO.NET\ADO.NET_Less2_Factory\ADO.NET_Less2_Factory\obj\Debug\ADO.NET_Less2_Factory.csproj.CoreCompileInputs.cache
+D:\ADO.NET\ADO.NET_Less2_Factory\ADO.NET_Less2_Factory\obj\Debug\ADO.NET_Less2_Factory.exe
+D:\ADO.NET\ADO.NET_Less2_Factory\ADO.NET_Less2_Factory\obj\Debug\ADO.NET_Less2_Factory.pdb
